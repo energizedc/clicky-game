@@ -1,0 +1,78 @@
+[{
+    "id": 1,
+    "image": "../images/groot.jfif"
+  },
+  {
+    "id": 2,
+    "image": "../images/ironman2.jfif"
+  },
+  {
+    "id": 3,
+
+    "image": "../images/marvelrescue.jfif"
+  },
+  {
+    "id": 4,
+    "image": "../images/nickfury.jfif"
+  },
+  {
+    "id": 5,
+    "image": "../images/philcoulson.jfif"
+  },
+  {
+    "id": 6,
+    "image": "../images/rocket2.jfif"
+
+  },
+  {
+    "id": 7,
+    "image": "../images/shuri.jfif"
+
+  },
+  {
+    "id": 8,
+    "image": "../images/xmen.jfif"
+
+  },
+  {
+    "id": 9,
+    "image": "../images/stanlee2.jfif"
+
+  },
+  {
+    "id": 10,
+    "image": "../images/tchalla2.jfif"
+
+  },
+  {
+    "id": 11,
+    "image": "../images/thor2.jfif"
+
+  },
+  {
+    "id": 12,
+    "image": "../images/wolverine.jpg"
+
+  },
+  {
+    "id": 13,
+    "image": "../images/sky2.jfif"
+
+  },
+  {
+    "id": 14,
+    "image": "../images/agentsofshield.jfif"
+
+  },
+  {
+    "id": 15,
+    "image": "../images/deadpool.jfif"
+
+  },
+  {
+    "id": 16,
+    "image": "../images/blackwidow.jfif"
+
+  }
+  
+]
