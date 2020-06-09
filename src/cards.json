@@ -1,37 +1,37 @@
 [{
     "id": 1,
-    "image": "/public/images/groot.jfif"
+    "image": "/public/images/groot.jpg"
   },
   {
     "id": 2,
-    "image": "/public/images/ironman2.jfif"
+    "image": "/public/images/ironman2.jpg"
   },
   {
     "id": 3,
 
-    "image": "/public/images/marvelrescue.jfif"
+    "image": "/public/images/marvelrescue.jpg"
   },
   {
     "id": 4,
-    "image": "/public/images/nickfury.jfif"
+    "image": "/public/images/nickfury.jpg"
   },
   {
     "id": 5,
-    "image": "/public/images/philcoulson.jfif"
+    "image": "/public/images/philcoulson.jpg"
   },
   {
     "id": 6,
-    "image": "/public/images/rocket2.jfif"
+    "image": "/public/images/rocket2.jpg"
 
   },
   {
     "id": 7,
-    "image": "/public/images/shuri.jfif"
+    "image": "/public/images/shuri.jpg"
 
   },
   {
     "id": 8,
-    "image": "/public/images/xmen.jfif"
+    "image": "/public/images/xmen.jpg"
 
   },
   {
@@ -41,12 +41,12 @@
   },
   {
     "id": 10,
-    "image": "/public/images/tchalla2.jfif"
+    "image": "/public/images/tchalla2.jpg"
 
   },
   {
     "id": 11,
-    "image": "/public/images/thor2.jfif"
+    "image": "/public/images/thor2.jpg"
 
   },
   {
@@ -56,7 +56,7 @@
   },
   {
     "id": 13,
-    "image": "/public/images/sky2.jfif"
+    "image": "/public/images/sky2.jpg"
 
   },
   {
@@ -66,12 +66,12 @@
   },
   {
     "id": 15,
-    "image": "/public/images/deadpool.jfif"
+    "image": "/public/images/deadpool.jpg"
 
   },
   {
     "id": 16,
-    "image": "/public/images/blackwidow.jfif"
+    "image": "/public/images/blackwidow.jpg"
 
   }
   
