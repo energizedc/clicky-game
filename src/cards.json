@@ -1,77 +1,77 @@
 [{
     "id": 1,
-    "image": "/public/images/groot.jpg"
+    "image": "./images/groot.jpg"
   },
   {
     "id": 2,
-    "image": "/public/images/ironman2.jpg"
+    "image": "./images/ironman2.jpg"
   },
   {
     "id": 3,
 
-    "image": "/public/images/marvelrescue.jpg"
+    "image": "./images/marvelrescue.jpg"
   },
   {
     "id": 4,
-    "image": "/public/images/nickfury.jpg"
+    "image": "./images/nickfury.jpg"
   },
   {
     "id": 5,
-    "image": "/public/images/philcoulson.jpg"
+    "image": "./images/philcoulson.jpg"
   },
   {
     "id": 6,
-    "image": "/public/images/rocket2.jpg"
+    "image": "./images/rocket2.jpg"
 
   },
   {
     "id": 7,
-    "image": "/public/images/shuri.jpg"
+    "image": "./images/shuri.jpg"
 
   },
   {
     "id": 8,
-    "image": "/public/images/xmen.jpg"
+    "image": "./images/xmen.jpg"
 
   },
   {
     "id": 9,
-    "image": "/public/images/stanlee2.jpg"
+    "image": "./images/stanlee2.jpg"
 
   },
   {
     "id": 10,
-    "image": "/public/images/tchalla2.jpg"
+    "image": "./images/tchalla2.jpg"
 
   },
   {
     "id": 11,
-    "image": "/public/images/thor2.jpg"
+    "image": "./images/thor2.jpg"
 
   },
   {
     "id": 12,
-    "image": "/public/images/wolverine.jpg"
+    "image": "./images/wolverine.jpg"
 
   },
   {
     "id": 13,
-    "image": "/public/images/sky2.jpg"
+    "image": "./images/sky2.jpg"
 
   },
   {
     "id": 14,
-    "image": "/public/images/agentsofshield.jpg"
+    "image": "./images/agentsofshield.jpg"
 
   },
   {
     "id": 15,
-    "image": "/public/images/deadpool.jpg"
+    "image": "./images/deadpool.jpg"
 
   },
   {
     "id": 16,
-    "image": "/public/images/blackwidow.jpg"
+    "image": "./images/blackwidow.jpg"
 
   }
   
